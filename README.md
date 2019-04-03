@@ -6,3 +6,5 @@ Note: This implementation was only tested for Linux. It will not work on Windows
 
 To run:
 $python3 ./sniff.py
+
+NOTE: MAJOR UPDATES WITH ADDED FUNCTIONALITY COMING SOON
